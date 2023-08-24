@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Mintbeer's Blog',
+  name: 'Mintbeer_s Blog',
   domain: 'mintbeer.site',
   author: 'Mintbeer',
 
