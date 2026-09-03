@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Mintbeer_s Blog',
-  domain: 'glistening-cadmium-b5f.notion.site',
+  domain: 'mintbeer.top',
   author: 'Mintbeer',
 
   // open graph metadata (optional)
