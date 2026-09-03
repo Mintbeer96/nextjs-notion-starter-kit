@@ -16,3 +16,6 @@ minimumReleaseAgeExclude:
   - notion-client
   - notion-types
   - notion-utils
+  
+packages:
+  - "."
